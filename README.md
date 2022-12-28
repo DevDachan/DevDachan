@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>  
 </div>
 
+
 <div align=center><h1>📚 Tools</h1></div>
 <div align=center>
 <img src="https://img.shields.io/badge/Eclipse IDE-F7DF1E?style=flat&logo=EclipseIDE&logoColor=white"/>
@@ -42,6 +43,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Atom-66595C?style=flat&logo=Atom&logoColor=white"/>
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=VirtualBox&logoColor=white"/>  
 </div>
+
+
+</br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDachan&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=DevDachan&show_icons=true">
