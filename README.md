@@ -17,6 +17,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align=center>
+Hello There😄. I'm Backend Developer.    
+  
+✨ My main skills are C++, JavaScript, Java and MySQL
+  
+</div>
+
+---------------
+
+
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center>
@@ -42,6 +52,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=VisualStudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Atom-66595C?style=flat&logo=Atom&logoColor=white"/>
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=VirtualBox&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Matlab-FC6D26?style=flat&logo=Matlab&logoColor=white"/>  
 </div>
 
 
