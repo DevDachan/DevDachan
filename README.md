@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div align=center>
 Hello There😄. I'm Backend Developer.    
   
-✨ My main skills are C++, JavaScript, Java and MySQL
+✨ My main skills are C++, JavaScript, Java.
   
 </div>
 
