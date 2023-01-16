@@ -17,12 +17,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=1800&pause=2000&color=195874&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Hello+There😄.+I'm+Backend+Developer;+✨+My+main+skills+are+C++,+JavaScript,+Java.)](https://git.io/typing-svg)
+
 <div align=center>
-Hello There😄. I'm Backend Developer.    
-  
-✨ My main skills are C++, JavaScript, Java.
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=DevDachan&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevDachan)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=DevDachan&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
+
 
 ---------------
 
