@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=DevDachan&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevDachan)
-  [![trophy](https://github-profile-trophy.vercel.app/?username=DevDachan&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=DevDachan&row=1&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
