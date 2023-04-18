@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 <div align=center>
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSP-00599C?style=flat&logo=JSP&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SpringBoot-00599C?style=flat&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-00599C?style=flat&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=Cpp&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScrpt-F7DF1E?style=flat&logo=JavaScrpt&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
