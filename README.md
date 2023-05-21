@@ -59,7 +59,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Atom-66595C?style=flat&logo=Atom&logoColor=white"/>
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=VirtualBox&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Matlab-FC6D26?style=flat&logo=Matlab&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/InteliJ-FC6D26?style=flat&logo=InteliJ&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/IntelliJ-FC6D26?style=flat&logo=InteliJ&logoColor=white"/>  
 </div>
 
 <div align=center><h1>📚 OS</h1></div>
