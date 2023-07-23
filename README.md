@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 </br>
 
-[![DevDachan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDachan)](https://github.com/DevDachan/github-readme-stats)   
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chn7894)](https://solved.ac/chn7894/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDachan&layout=compact)](https://github.com/DevDachan/github-readme-stats)
 
