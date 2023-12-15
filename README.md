@@ -2,21 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DevDachan&fontSize=90" />
 
 
-<!--
-**DevDachan/DevDachan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=1800&pause=2000&color=195874&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Hello+There😄.+I'm+Backend+Developer;+✨+My+main+skills+are+Java,+JavaScript)](https://git.io/typing-svg)
 
 <div align=center>
@@ -37,6 +22,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/SpringBoot-00599C?style=flat&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Vue-61DAFB?style=flat&logo=Vue&logoColor=black"/>
   <img src="https://img.shields.io/badge/JSP-00599C?style=flat&logo=JSP&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScrpt-F7DF1E?style=flat&logo=JavaScrpt&logoColor=white"/>
