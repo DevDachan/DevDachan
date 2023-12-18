@@ -32,8 +32,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MyBatis-4479A1?style=flat&logo=MyBatis&logoColor=white"/>
   <img src="https://img.shields.io/badge/express-000000?style=flat&logo=DevExpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=Cpp&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>  
 </div>
 
 
