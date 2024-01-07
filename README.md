@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DevDachan&fontSize=90" />
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=1800&pause=2000&color=195874&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Hello+There😄.+I'm+Backend+Developer;+✨+My+main+skills+are+Java,+JavaScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=1800&pause=2000&color=195874&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Hello+There😄.+I'm+Backend+Developer;+✨+My+main+skills+are+Spring,+JSP)](https://git.io/typing-svg)
 
 <div align=center>
 
@@ -14,22 +14,24 @@
 
 
 ---------------
-
-
-<div align=center><h1>📚 STACKS</h1></div>
-
+<div align=center><h1>📚 Main Stacks</h1></div>
 <div align=center>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-00599C?style=flat&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-00599C?style=flat&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSP-00599C?style=flat&logo=JSP&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+</div>
+
+<div align=center><h1>📚 Sub Stacks</h1></div>
+
+<div align=center>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vue.js-61DAFB?style=flat&logo=Vue.js&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JSP-00599C?style=flat&logo=JSP&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScrpt&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MyBatis-4479A1?style=flat&logo=MyBatis&logoColor=white"/>
   <img src="https://img.shields.io/badge/express-000000?style=flat&logo=DevExpress&logoColor=white"/>
 </div>
